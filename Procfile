@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT catalizrapp_3981.wsgi:application
